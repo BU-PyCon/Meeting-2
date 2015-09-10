@@ -1,2 +1,5 @@
 # Meeting-2
-Functions, plotting, I/O
+- Python Tips and Tricks
+- Functions Part II
+- Input/Output
+- Plotting Part II
